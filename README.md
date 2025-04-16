@@ -50,43 +50,18 @@
 
 <div align="center">
 
-<!-- Text-based Custom Stats -->
-<b>🧮 Custom Contribution Stats:</b><br><br>
-<table>
-  <tr>
-    <td><strong>Total Commits (2025):</strong></td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td><strong>Total PRs:</strong></td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td><strong>Total Issues:</strong></td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td><strong>Contributed to (last year):</strong></td>
-    <td>10 repositories</td>
-  </tr>
-  <tr>
-    <td><strong>Current Streak:</strong></td>
-    <td>8 days</td>
-  </tr>
-</table>
+  <!-- Overall GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ryanadams&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="RyanAdams's GitHub Stats" />
 
-<br>
+  <!-- Contribution Streak -->
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanadams&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RyanAdams's GitHub Streak" />
 
-<!-- Visual Stats -->
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=ryanadams&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="RyanAdams's GitHub Stats" />
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanadams&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RyanAdams's GitHub Streak" />
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanadams&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RyanAdams's Most Used Languages" />
+  <!-- Top Languages -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanadams&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RyanAdams's Most Used Languages" />
 
 </div>
 
 <hr>
-
-
 
 ## 🐍 My Contributions
 
