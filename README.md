@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+!;" />
 </h1>
 
-### Certified Microsoft 365 Administrator
+### A Certified Microsoft 365 Administrator
 
 - 🌱 I’m currently learning **Cybersecurity**
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/Ryan-Adams57)**  
