@@ -65,15 +65,13 @@
 
 ## 🐍 My Contributions
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+🚀 Open Source Projects – Built and contributed to tools like FastAPI-Todo and others.
 
-<hr>
+🛠️ Dev Tools & Libraries – Published CLI tools and automation scripts to speed up workflows.
+
+📦 Packages – Released Python packages on PyPI, including data-cleaner (2K+ downloads).
+
+💬 Community – Active in GitHub Discussions and bug triaging for projects like Django.
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
