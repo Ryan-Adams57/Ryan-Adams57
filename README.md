@@ -10,7 +10,10 @@
 ### A Certified Microsoft 365 Administrator
 
 - 🌱 I’m currently learning **Cybersecurity**
-- 💬 Ask me about **Java, Node.js, React ... or visit my website [here](https://www.governmentcontrol.net)**  
+- 💬 Ask me about **Java, Node.js, React ... or visit my website [here](https://www.governmentcontrol.net)**
+- ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Open Collective Sponsors](https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective)
+![GitHub Sponsors](https://img.shields.io/badge/Sponsors-49-orange?logo=github)  
 
 <br>
 
@@ -78,10 +81,6 @@
 - 🚀 Building a security audit tool using PowerShell and Python  
 - 🧠 Studying for the CompTIA Security+ certification  
 - 🛠️ Writing a new blog series on Microsoft 365 tips & tricks
-
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Open Collective Sponsors](https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective)
-![GitHub Sponsors](https://img.shields.io/badge/Sponsors-49-orange?logo=github)
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
