@@ -73,6 +73,12 @@
 
 💬 Community – Active in GitHub Discussions and bug triaging for projects like Django.
 
+🔧 Currently Working On
+
+- 🚀 Building a security audit tool using PowerShell and Python  
+- 🧠 Studying for the CompTIA Security+ certification  
+- 🛠️ Writing a new blog series on Microsoft 365 tips & tricks
+
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
