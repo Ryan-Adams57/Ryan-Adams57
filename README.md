@@ -79,6 +79,14 @@
 - 🧠 Studying for the CompTIA Security+ certification  
 - 🛠️ Writing a new blog series on Microsoft 365 tips & tricks
 
+![Tests](https://github.com/Ryan-Adams57/Sysinternals-Windows-Group-Policy-Templates/actions/workflows/ci.yml/badge.svg)
+![Downloads](https://img.shields.io/packagist/dt/vendor/package-name)
+![Packagist Version](https://img.shields.io/packagist/v/vendor/package-name)
+![License](https://img.shields.io/github/license/Ryan-Adams57/Sysinternals-Windows-Group-Policy-Templates)
+![Open Collective Sponsors](https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective)
+![GitHub Sponsors](https://img.shields.io/badge/Sponsors-49-orange?logo=github)
+
+
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
