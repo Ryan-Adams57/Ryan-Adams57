@@ -80,12 +80,9 @@
 - 🛠️ Writing a new blog series on Microsoft 365 tips & tricks
 
 ![Tests](https://github.com/Ryan-Adams57/Sysinternals-Windows-Group-Policy-Templates/actions/workflows/ci.yml/badge.svg)
-![Downloads](https://img.shields.io/packagist/dt/vendor/package-name)
-![Packagist Version](https://img.shields.io/packagist/v/vendor/package-name)
-![License](https://img.shields.io/github/license/Ryan-Adams57/Sysinternals-Windows-Group-Policy-Templates)
+![License](https://img.shields.io/github/license/Ryan-Adams57/Sysinternals-Windows-Group-Policy-Templates?label=License&color=blue)
 ![Open Collective Sponsors](https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective)
 ![GitHub Sponsors](https://img.shields.io/badge/Sponsors-49-orange?logo=github)
-
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
