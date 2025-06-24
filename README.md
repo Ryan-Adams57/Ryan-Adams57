@@ -73,7 +73,7 @@
 
 💬 Community – Active in GitHub Discussions and bug triaging for projects like Django.
 
-🔧 Currently Working On
+🔧 Currently Working On:
 
 - 🚀 Building a security audit tool using PowerShell and Python  
 - 🧠 Studying for the CompTIA Security+ certification  
