@@ -84,5 +84,4 @@
 - [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
 - [What is DNS &lpar;Domain Name System&rpar;?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8?source=rss-e21fdbe6f1b3------2)
 - [10 Useful Mac Run Commands &lpar;Command + Space&rpar;.](https://medium.com/@ryan.adams1277/10-useful-mac-run-commands-command-space-57ad200463da?source=rss-e21fdbe6f1b3------2)
-- [Deploying Windows LAPS: A Secure Solution for Managing Local Administrator Accounts.](https://medium.com/@ryan.adams1277/deploying-windows-laps-a-secure-solution-for-managing-local-administrator-accounts-fb8c782999ee?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
