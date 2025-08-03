@@ -56,8 +56,7 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanadams&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RyanAdams's Most Used Languages" />
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Open Collective Sponsors](https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective)
-![GitHub Sponsors](https://img.shields.io/badge/Sponsors-49-orange?logo=github)  
+![Open Collective Sponsors](https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective) 
 
 </div>
 
