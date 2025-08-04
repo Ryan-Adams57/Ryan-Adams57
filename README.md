@@ -8,7 +8,7 @@
 ### Certified Microsoft 365 Administrator
 
 - 🌱 I’m currently learning **Cybersecurity**
-- 💬 Ask me about **Java, Node.js, React... or visit my [website](https://www.governmentcontrol.net)**  
+- 💬 Ask me about **Python, HTML, CSS... or visit my [website](https://www.governmentcontrol.net)**  
 
 <hr>
 
