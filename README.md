@@ -1,14 +1,11 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+!;" alt="Typing SVG" />
 </h1>
 
 ### Certified Microsoft 365 Administrator
 
 - 🌱 I’m currently learning **Cybersecurity**
-- 💬 Ask me about **Java, Node.js, React ... or visit my website [here](https://www.governmentcontrol.net)**  
-
-<br>
+- 💬 Ask me about **Java, Node.js, React... or visit my [website](https://www.governmentcontrol.net)**  
 
 <hr>
 
@@ -31,8 +28,6 @@
 
 ## 🛠️ Languages and Tools
 
-<br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
@@ -42,41 +37,28 @@
 
 ## ⚡️ Stats
 
-<br>
-
 <div align="center">
-
-  <!-- Overall GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ryanadams&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="RyanAdams's GitHub Stats" />
-
-  <!-- Contribution Streak -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Ryan-Adams57&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
   <img width="390" src="https://streak-stats.demolab.com?user=Ryan-Adams57&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanadams&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RyanAdams's Most Used Languages" />
-
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Open Collective Sponsors](https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective) 
-
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryan-Adams57&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective" />
+</p>
 
 <hr>
 
 ## 🐍 My Contributions
 
-🚀 Open Source Projects – Built and contributed to tools like FastAPI-Todo and others.
+<p align="center">
+  <img src="https://github.com/Ryan-Adams57/Ryan-Adams57/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-🛠️ Dev Tools & Libraries – Published CLI tools and automation scripts to speed up workflows.
+> *(Snake appears in dark/light mode automatically. Make sure you have [this GitHub Action](https://github.com/Platane/snk) set up in your repo.)*
 
-📦 Packages – Released Python packages on PyPI, including data-cleaner (2K+ downloads).
-
-💬 Community – Active in GitHub Discussions and bug triaging for projects like Django.
-
-🔧 Currently Working On:
-
-- 🚀 Building a security audit tool using PowerShell and Python  
-- 🧠 Studying for the CompTIA Security+ certification  
-- 🛠️ Writing a new blog series on Microsoft 365 tips & tricks
+---
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
