@@ -5,7 +5,7 @@
   />
 </h1>
 
-### Certified Microsoft 365 Administrator
+### Desktop Support Technician
 
 - 🌱 I’m currently learning **Cybersecurity**
 - 💬 Ask me about **Python, HTML, CSS... or visit my [website](https://www.governmentcontrol.net)**  
