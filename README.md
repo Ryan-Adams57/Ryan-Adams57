@@ -5,7 +5,7 @@
   />
 </h1>
 
-### Desktop Support Technician
+### Microsoft Entra ID (Azure Active Directory) Administrator
 
 - 🌱 I’m currently learning **Cybersecurity**
 - 💬 Ask me about **Python, HTML, CSS... or visit my [website](https://www.governmentcontrol.net)**  
