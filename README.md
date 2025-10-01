@@ -5,7 +5,7 @@
   />
 </h1>
 
-### Microsoft Entra ID (Azure Active Directory) Administrator
+### A Microsoft Entra ID (Azure Active Directory) Administrator
 
 - 🌱 I’m currently learning **Cybersecurity**
 - 💬 Ask me about **Python, HTML, CSS... or visit my [website](https://www.governmentcontrol.net)**  
