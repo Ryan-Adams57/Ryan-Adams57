@@ -1,0 +1,48 @@
+name: Generate contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+
+permissions:
+  contents: write        # allow pushing to repo (GITHUB_TOKEN)
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake svgs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated files to output branch
+        # create output branch if missing, then copy dist/* and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # create or fetch output branch
+          if git show-ref --quiet refs/heads/output; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf .
+            git commit --allow-empty -m "Initialize output branch for snake"
+          fi
+          # copy generated artifacts and commit
+          mkdir -p dist
+          cp -r dist/* dist/ || true
+          git add -A dist
+          git commit -m "Update snake images" || echo "No changes to commit"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
