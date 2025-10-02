@@ -82,6 +82,66 @@
 
 <hr>
 
+## 🛠️ Tools, Technologies & Platforms
+
+<div align="center">
+
+<!-- Identity & Access Management -->
+<h4>🛡 Identity & Access Management</h4>
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conditional%20Access-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAML%2FSSO-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/MFA-FF6B00?style=for-the-badge&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<!-- Cloud Platforms -->
+<h4>☁️ Cloud Platforms</h4>
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<!-- MDM & Device Management -->
+<h4>📱 MDM & Device Management</h4>
+  <img src="https://img.shields.io/badge/Apple%20Business%20Manager-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAMF-00A4E4?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Operating Systems -->
+<h4>💻 Operating Systems</h4>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<!-- Scripting / Automation -->
+<h4>⚙️ Scripting & Automation</h4>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+<!-- Networking & Security -->
+<h4>🌐 Networking & Security</h4>
+  <img src="https://img.shields.io/badge/VPN-0B0B0B?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/DHCP%2FDNS-0B0B0B?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewalls-FF6B00?style=for-the-badge&logo=fortinet&logoColor=white" />
+
+<!-- Support / Ticketing Tools -->
+<h4>🧰 IT Tools & Ticketing</h4>
+  <img src="https://img.shields.io/badge/ConnectWise-000000?style=for-the-badge&logo=connectwise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaseya-0052CC?style=for-the-badge&logo=kaseya&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20Glue-6E40C9?style=for-the-badge&logo=notion&logoColor=white" />
+
+<!-- Admin Consoles -->
+<h4>🛠 Admin Consoles</h4>
+  <img src="https://img.shields.io/badge/Google%20Admin%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple%20School%20Manager-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+</div>
+
+<hr>
+
 ## ⚡️ Stats
 
 <div align="center">
