@@ -7,8 +7,8 @@
 
 ### A Microsoft Entra ID (Azure Active Directory) Administrator
 
-- 🌱 I’m currently learning **Cybersecurity**
-- 💬 Feel free to chat with me about Python, HTML, CSS, and more! or visit my [website](https://www.governmentcontrol.net)**  
+- 🌱 I’m currently learning **Cyber Security**
+- 💬 Feel free to chat with me about Python, HTML, CSS, and more! or visit my [website](https://www.governmentcontrol.net)
 
 <hr>
 
