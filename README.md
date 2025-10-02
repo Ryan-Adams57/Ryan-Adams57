@@ -136,7 +136,7 @@
 <!-- Admin Consoles -->
 <h4>🛠 Admin Consoles</h4>
   <img src="https://img.shields.io/badge/Google%20Admin%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apple%20School%20Manager-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple%20Business%20Manager-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 </div>
 
