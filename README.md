@@ -5,7 +5,7 @@
   />
 </h1>
 
-### A Microsoft Entra ID (Azure Active Directory) Administrator
+### Desktop Support Technician
 
 - 🌱 I’m currently learning **Cyber Security**
 - 💬 Feel free to chat with me about Python, HTML, CSS, and more! or visit my [website](https://www.governmentcontrol.net)
@@ -104,7 +104,6 @@
 
 ## 🐍 My Contributions
 
-## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/Ryan-Adams57/Ryan-Adams57/output/github-contribution-grid-snake-dark.svg)
 
 ---
