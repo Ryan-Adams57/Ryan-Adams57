@@ -104,9 +104,8 @@
 
 ## 🐍 My Contributions
 
-<p align="center">
-  <img src="https://github.com/Ryan-Adams57/Ryan-Adams57/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/Ryan-Adams57/Ryan-Adams57/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
