@@ -95,11 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryan-Adams57&theme=radical&layout=compact&langs_count=8&hide=css&hide_border=false&border_radius=10" width="47%" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img src="https://img.shields.io/badge/Open%20Collective-121-orange?logo=open-collective" />
-</p>
-
 <hr>
 
 ## 🐍 My Contributions
