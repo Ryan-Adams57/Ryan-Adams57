@@ -88,8 +88,8 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Adams57&theme=radical&count_private=true&show_icons=true&rank_icon=github&hide_border=false&custom_title=GitHub+Stats" width="47%" alt="GitHub Stats" />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Ryan-Adams57&theme=radical&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" width="47%" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Adams57&theme=radical&hide_border=false" width="47%" alt="GitHub Streak" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryan-Adams57&theme=radical&layout=compact&langs_count=8&hide=css&hide_border=false&border_radius=10" width="47%" alt="Top Languages" />
