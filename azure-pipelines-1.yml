@@ -53,7 +53,6 @@ stages:
       displayName: 'Install Node.js'
       inputs:
         versionSpec: $(nodeVersion)
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     - script: |
         echo "Building Node.js application..."
@@ -66,14 +65,12 @@ stages:
           echo "No package.json found, skipping Node.js build"
         fi
       displayName: 'Build Node.js App'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     # .NET Build Path
     - task: UseDotNet@2
       displayName: 'Install .NET SDK'
       inputs:
         version: $(dotNetVersion)
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     - script: |
         echo "Building .NET application..."
@@ -88,14 +85,12 @@ stages:
           echo "No .NET project found, skipping .NET build"
         fi
       displayName: 'Build .NET App'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     # Python Build Path
     - task: UsePythonVersion@0
       displayName: 'Install Python'
       inputs:
         versionSpec: $(pythonVersion)
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     - script: |
         echo "Building Python application..."
@@ -107,7 +102,6 @@ stages:
           echo "No requirements.txt found, skipping Python setup"
         fi
       displayName: 'Build Python App'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     # Docker Build (multi-platform support)
     - script: |
@@ -121,7 +115,6 @@ stages:
           echo "No Dockerfile found, skipping Docker build"
         fi
       displayName: 'Build Docker Image'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     # Publish Build Artifacts
     - task: PublishBuildArtifacts@1
@@ -129,7 +122,6 @@ stages:
       inputs:
         PathtoPublish: '$(Build.ArtifactStagingDirectory)'
         ArtifactName: 'drop'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
 
   # Unit Tests Job
   - job: RunTests
@@ -145,7 +137,6 @@ stages:
       displayName: 'Setup Node.js for Tests'
       inputs:
         versionSpec: $(nodeVersion)
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     - script: |
         echo "Running Node.js tests..."
@@ -156,14 +147,12 @@ stages:
           echo "No package.json found, skipping Node.js tests"
         fi
       displayName: 'Run Node.js Tests'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     # .NET Tests
     - task: UseDotNet@2
       displayName: 'Setup .NET for Tests'
       inputs:
         version: $(dotNetVersion)
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     - script: |
         echo "Running .NET tests..."
@@ -174,14 +163,12 @@ stages:
           echo "No .NET project found, skipping .NET tests"
         fi
       displayName: 'Run .NET Tests'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     # Python Tests
     - task: UsePythonVersion@0
       displayName: 'Setup Python for Tests'
       inputs:
         versionSpec: $(pythonVersion)
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
     
     - script: |
         echo "Running Python tests..."
@@ -193,7 +180,6 @@ stages:
           echo "No requirements.txt found, skipping Python tests"
         fi
       displayName: 'Run Python Tests'
-      condition: and(succeeded(), eq(variables['Build.Reason'], 'Manual'))
 
   # Security & Quality Gates Job
   - job: SecurityScan
