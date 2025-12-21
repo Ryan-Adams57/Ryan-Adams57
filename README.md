@@ -173,6 +173,8 @@ This repository includes a comprehensive **Multi-Stage, Environment-Based CI/CD 
 3. **Update Variables**: Modify variables in `azure-pipelines-1.yml` to match your Azure resources
 4. **Run Pipeline**: Trigger the pipeline from Azure DevOps or via code commit
 
+📖 **Detailed Setup Instructions**: See the complete [Pipeline Setup Guide](./PIPELINE_SETUP_GUIDE.md) for step-by-step configuration.
+
 ### Environment Configuration
 
 Configure these environments in Azure DevOps:
