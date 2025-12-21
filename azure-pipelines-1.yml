@@ -74,7 +74,7 @@ stages:
     
     - script: |
         echo "Building .NET application..."
-        if [ -f *.csproj ] || [ -f *.sln ]; then
+        if find . -maxdepth 1 -name '*.csproj' -o -name '*.sln' | grep -q .; then
           echo ".NET project found - restoring dependencies"
           dotnet restore
           echo "Building application..."
@@ -156,7 +156,7 @@ stages:
     
     - script: |
         echo "Running .NET tests..."
-        if [ -f *.csproj ] || [ -f *.sln ]; then
+        if find . -maxdepth 1 -name '*.csproj' -o -name '*.sln' | grep -q .; then
           dotnet restore
           dotnet test --configuration $(buildConfiguration) --logger trx --collect:"XPlat Code Coverage"
         else
