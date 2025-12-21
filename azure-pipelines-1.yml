@@ -1,0 +1,114 @@
+trigger:
+- main
+
+pr:
+- main
+
+# Use Microsoft-hosted agents
+pool:
+  vmImage: 'ubuntu-latest'
+
+# Variables (can also be stored securely)
+variables:
+  azureSubscription: 'MyAzureSubscription'
+  devResourceGroup: 'rg-dev'
+  prodResourceGroup: 'rg-prod'
+  imageName: 'my-microservice'
+
+# Multi-stage pipeline
+stages:
+
+# ------------------------------
+# Stage 1: Build Stage
+# ------------------------------
+- stage: Build
+  displayName: 'Build Microservices'
+  jobs:
+  - job: BuildApp
+    displayName: 'Build Application'
+    steps:
+    - checkout: self
+    - script: |
+        echo "Building microservice..."
+        # Example for Node.js
+        if [ -f package.json ]; then
+          npm install
+          npm run build
+        fi
+      displayName: 'Install & Build App'
+
+    - script: |
+        echo "Running tests..."
+        # Example for Python
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+          pytest
+        fi
+      displayName: 'Run Tests'
+
+    - script: |
+        echo "Building Docker image..."
+        docker build -t $(imageName):$(Build.BuildId) .
+      displayName: 'Docker Build'
+
+    - script: |
+        echo "PSRule Security Scan..."
+        # Example: PSRule scan command
+        pwsh -Command "Invoke-PSRule -Path ./infra -Outcome Fail"
+      displayName: 'Security Scan with PSRule'
+
+# ------------------------------
+# Stage 2: Deploy to Dev
+# ------------------------------
+- stage: DeployDev
+  displayName: 'Deploy to Dev'
+  dependsOn: Build
+  jobs:
+  - deployment: DeployToDev
+    displayName: 'Deploy Dev Environment'
+    environment: 'dev'
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - script: |
+              echo "Deploying microservice to Dev..."
+              # Example for Azure with Bicep
+              az deployment group create --resource-group $(devResourceGroup) --template-file infra/main.bicep
+            displayName: 'Deploy IaC to Dev'
+
+          - script: |
+              echo "Deploy Docker image to Dev..."
+              # Example: push to Azure Container Registry & deploy to AKS
+            displayName: 'Deploy Container to Dev'
+
+# ------------------------------
+# Stage 3: Deploy to Prod
+# ------------------------------
+- stage: DeployProd
+  displayName: 'Deploy to Prod'
+  dependsOn: DeployDev
+  condition: succeeded()
+  approval:
+    # Manual approval before Prod deployment
+    approvals:
+    - approvalType: Manual
+      approvers:
+      - user1@company.com
+  jobs:
+  - deployment: DeployToProd
+    displayName: 'Deploy Prod Environment'
+    environment: 'prod'
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - script: |
+              echo "Deploying microservice to Prod..."
+              az deployment group create --resource-group $(prodResourceGroup) --template-file infra/main.bicep
+            displayName: 'Deploy IaC to Prod'
+
+          - script: |
+              echo "Deploy Docker image to Prod..."
+              # Push and deploy container image to Prod
+            displayName: 'Deploy Container to Prod'
