@@ -188,4 +188,6 @@ Configure these environments in Azure DevOps:
 - [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
 - [What is DNS &lpar;Domain Name System&rpar;?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8?source=rss-e21fdbe6f1b3------2)
 - [10 Useful Mac Run Commands &lpar;Command + Space&rpar;.](https://medium.com/@ryan.adams1277/10-useful-mac-run-commands-command-space-57ad200463da?source=rss-e21fdbe6f1b3------2)
+- [Implementing Zero Trust with Azure AD.](https://medium.com/@ryan.adams1277/implementing-zero-trust-with-azure-ad-5ed7edd2ecdf?source=rss-e21fdbe6f1b3------2)
+- [Azure Identity Protection.](https://medium.com/@ryan.adams1277/azure-identity-protection-3ca8f9504f60?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
