@@ -5,7 +5,7 @@
   />
 </h1>
 
-### I'm A Desktop Support Technician
+### A Desktop Support Technician
 
 - 🌱 I’m currently learning **Cyber Security**
 - 💬 Feel free to chat with me about Python, HTML, CSS, and more! or visit my [website](https://www.governmentcontrol.net)
