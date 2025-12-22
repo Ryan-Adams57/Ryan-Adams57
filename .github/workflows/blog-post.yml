@@ -1,24 +1,32 @@
-name: Latest Medium Articles Workflow
+name: Medium Articles Archive Workflow
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write # Required to update the README
+  contents: write # Required to update the repo
 
 jobs:
-  update-readme-with-medium-articles:
-    name: Update README with latest Medium articles
+  archive-medium-articles:
+    name: Archive all Medium articles
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Pull Medium posts
+      - name: Pull all Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@ryan.adams1277"
-          # Optional: you can set output_file if you want a custom file instead of README
-          # output_file: "BLOG_POSTS.md"
+          output_file: "MEDIUM_ARTICLES.md" # Saves all articles in this file
+          max_posts: 1000 # Increase if you want to capture more posts
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add MEDIUM_ARTICLES.md
+          git commit -m "Update Medium articles archive" || echo "No changes to commit"
+          git push
