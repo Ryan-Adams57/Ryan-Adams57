@@ -85,14 +85,21 @@
 ## ⚡️ Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Adams57&theme=radical&count_private=true&show_icons=true&rank_icon=github&hide_border=false&custom_title=GitHub+Stats" width="47%" alt="GitHub Stats" />
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ryan-Adams57&theme=radical&count_private=true&show_icons=true&rank_icon=github&hide_border=false&custom_title=GitHub+Stats" width="47%" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ryan-Adams57&theme=radical&show_icons=true&hide_border=false&custom_title=GitHub+Stats&cache_seconds=21600"
+    width="47%"
+    alt="GitHub Stats"
+  />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryan-Adams57&theme=radical&layout=compact&langs_count=8&hide=css&hide_border=false&border_radius=10" width="47%" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryan-Adams57&theme=radical&layout=compact&langs_count=8&hide=css&hide_border=false"
+    width="47%"
+    alt="Top Languages"
+  />
+
 </div>
 
 <hr>
