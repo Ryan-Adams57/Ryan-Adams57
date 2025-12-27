@@ -80,30 +80,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
-<hr>
-
-## ⚡️ Stats
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://stats.dooboo.io/api/github-stats?login=Ryan-Adams57"
-    width="47%"
-    alt="GitHub Stats"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://stats.dooboo.io/api/github-languages?login=Ryan-Adams57"
-    width="47%"
-    alt="Top Languages"
-  />
-
-</div>
-
-<hr>
-
 ## 🐍 My Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/Ryan-Adams57/Ryan-Adams57/output/github-contribution-grid-snake-dark.svg)
