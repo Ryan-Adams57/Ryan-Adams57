@@ -20,8 +20,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@ryan.adams1277"
-          output_file: "MEDIUM_ARTICLES.md" # Saves all articles in this file
-          max_posts: 1000 # Increase if you want to capture more posts
+          readme_path: "MEDIUM_ARTICLES.md"   # ✅ correct input
+          max_post_count: 1000                # ✅ correct input
 
       - name: Commit and push changes
         run: |
