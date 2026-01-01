@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allows manual trigger
 
 permissions:
-  contents: write # Required to update the repo
+  contents: write
 
 jobs:
   archive-medium-articles:
@@ -16,17 +16,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Pull all Medium posts
+      - name: Pull Medium posts into README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@ryan.adams1277"
-          readme_path: "MEDIUM_ARTICLES.md"   # ✅ correct input
-          max_post_count: 1000                # ✅ correct input
+          readme_path: "README.md"
+          max_post_count: 1000
 
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add MEDIUM_ARTICLES.md
-          git commit -m "Update Medium articles archive" || echo "No changes to commit"
+          git add README.md
+          git commit -m "Update Medium blog posts" || echo "No changes to commit"
           git push
