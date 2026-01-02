@@ -168,9 +168,14 @@ Configure these environments in Azure DevOps:
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using ChatGPT to Review Wireshark CSV Exports!](https://medium.com/@ryan.adams1277/using-chatgpt-to-review-wireshark-csv-exports-4e1e0d8ea8d5?source=rss-e21fdbe6f1b3------2)
+- [Assigning Policies in Microsoft Intune](https://medium.com/@ryan.adams1277/assigning-policies-in-microsoft-intune-dadee80de419?source=rss-e21fdbe6f1b3------2)
 - [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
 - [What is DNS &lpar;Domain Name System&rpar;?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8?source=rss-e21fdbe6f1b3------2)
 - [10 Useful Mac Run Commands &lpar;Command + Space&rpar;.](https://medium.com/@ryan.adams1277/10-useful-mac-run-commands-command-space-57ad200463da?source=rss-e21fdbe6f1b3------2)
 - [Implementing Zero Trust with Azure AD.](https://medium.com/@ryan.adams1277/implementing-zero-trust-with-azure-ad-5ed7edd2ecdf?source=rss-e21fdbe6f1b3------2)
 - [Azure Identity Protection.](https://medium.com/@ryan.adams1277/azure-identity-protection-3ca8f9504f60?source=rss-e21fdbe6f1b3------2)
+- [What is Active Directory &lpar;AD&rpar;?](https://medium.com/@ryan.adams1277/what-is-active-directory-ad-9b32b16b5161?source=rss-e21fdbe6f1b3------2)
+- [10 Useful Windows Run Commands &lpar;Win + R&rpar;.](https://medium.com/@ryan.adams1277/10-useful-windows-run-commands-win-r-367c27d4b07e?source=rss-e21fdbe6f1b3------2)
+- [Setting Up Printers, User Permissions, and Printer Sharing on a Windows Server Virtual Machine.](https://medium.com/@ryan.adams1277/setting-up-printers-user-permissions-and-printer-sharing-on-a-windows-server-vm-97bef4209c68?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
