@@ -24,11 +24,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/Ryan-Adams57" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <!-- Tini.bio -->
   <a href="https://tini.bio/ryan-adams" target="_blank">
     <img src="https://img.shields.io/badge/Tini.bio-00C896?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu/MC9zdmciPjxnIGZpbGw9IndoaXRlIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNiIvPjxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSI0IiBmaWxsPSIjMDA4ODg4Ii8+PC9nPjwvc3ZnPg==" />
