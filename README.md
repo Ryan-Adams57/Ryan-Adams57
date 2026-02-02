@@ -1,98 +1,54 @@
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+there%2C+I'm+Ryan+👋"
-    alt="Typing SVG"
-  />
-</h1>
 
-### A Desktop Support Technician
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ryan Adams
+===================================================================================================================================
 
-- 🌱 I’m currently learning **Cyber Security**
-- 💬 Feel free to chat with me about Python, HTML, CSS, and more! or visit my [website](https://www.governmentcontrol.net)
+IT Support & Cloud Infrastructure Specialist
+--------------------------------------------
 
-<hr>
+I’m an IT professional with hands-on experience supporting enterprise environments (10,000+ users) across Windows, macOS, and cloud platforms. I specialize in cloud infrastructure, identity and access management, endpoint deployment, and automation. My work blends practical technical support with infrastructure improvements—everything from scripting to streamline device onboarding to configuring, monitoring, and securing hybrid systems in Azure and AWS.
 
-<div align="center">
+On GitHub you’ll find automation tools, PowerShell scripts, and infrastructure guides that I build both for real-world IT operations and to help others learn alongside me. I care about scalable solutions, clean documentation, and reducing repetitive work so systems just work—and stay working.
 
-  <!-- Gmail -->
-  <a href="mailto:ryan.adams1277@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+* 🌍  I'm based in Colorado, USA
+* 🖥️  See my portfolio at [MyPortfolio](http://https://www.governmentcontrol.net/home)
+* ✉️  You can contact me at [ryan.adams@governmentcontrol.net](mailto:ryan.adams@governmentcontrol.net)
+* 🚀  I'm currently working on [Improving my IT automation stack for onboarding, auditing, and reporting Building out IT infrastructure roadmaps and guides on my site Maintaining and expanding cloud-based administration tools](http://https://www.governmentcontrol.net/it-projects/upcoming-it-projects)
+* 🧠  I'm currently learning Cybersecurity fundamentals & practical toolchains DevOps principles and CI/CD workflows Advanced Azure administration and networking More automation with PowerShell, Bash, & Python
+* 👥  I'm looking to collaborate on Automation and scripting projects Cloud infrastructure and security tooling Documentation, tooling, and workflow improvements Anything that helps teams scale IT without scaling headaches
+* 💬  Ask me about I’m all about systems that are clean, automated, and documented—and if I can make life easier for the next person who touches them, even better. Also… I’m still waiting on my Spider-Man origin story 🕷️😉
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ryan-adamsz7157" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Tini.bio -->
-  <a href="https://tini.bio/ryan-adams" target="_blank">
-    <img src="https://img.shields.io/badge/Tini.bio-00C896?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu/MC9zdmciPjxnIGZpbGw9IndoaXRlIj48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iNiIvPjxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSI0IiBmaWxsPSIjMDA4ODg4Ii8+PC9nPjwvc3ZnPg==" />
-  </a>
-
-  <!-- CodePen -->
-  <a href="https://codepen.io/Ryan-1957" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-
-  <!-- Google Developer -->
-  <a href="https://g.dev/ryan25adamsk5759" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-
-  <!-- Microsoft Learn Transcript -->
-  <a href="https://learn.microsoft.com/en-us/users/ryanadams-2482/transcript/vyr2ueyxwp829ld" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-2E2E2E?style=for-the-badge&logo=microsoft&logoColor=white" />
-  </a>
-
-  <!-- Credly -->
-  <a href="https://www.credly.com/users/ryan-adams.4ace527b" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-
-  <!-- Google Cloud Skills Boost -->
-  <a href="https://www.cloudskillsboost.google/public_profiles/ccf96eab-32ef-4923-ba0a-b4ee7a0bd449" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud%20Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  </a>
-
-  <!-- Kaggle Notebook -->
-  <a href="https://www.kaggle.com/code/ryankadams/understanding-embeddings-optimized-vector-databa" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%20Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-
-  <!-- Upwork -->
-  <a href="https://www.upwork.com/freelancers/~0122b386d7ac7e66b8?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-
-</div>
-
-<hr>
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 </p>
 
-## 🐍 My Contributions
+### Socials
 
-![Snake animation](https://raw.githubusercontent.com/Ryan-Adams57/Ryan-Adams57/output/github-contribution-grid-snake-dark.svg)
+<p align="left"> <a href="https://www.github.com/Ryan-Adams57" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/Ryan-Adams57" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="http://www.medium.com/@ryan.adams1277" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/ryan–adamsz7157" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.twitch.tv/ryan_from_twitch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a> <a href="https://www.youtube.com/@ryan-from-YT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.codepen.io/Ryan-1957" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a></p>
+<a href="https://www.github.com/Ryan-Adams57" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ryan-Adams57?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/ryan_from_twitch" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/ryan_from_twitch?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/Ryan-Adams57"><img src="https://github-readme-stats.vercel.app/api?username=Ryan-Adams57&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ryan-Adams57's GitHub stats" /></a>
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Windows Autopilot: A Transformative Tool for IT Device Management](https://medium.com/@ryan.adams1277/windows-autopilot-a-transformative-tool-for-it-device-management-c0fb9de1eb14?source=rss-e21fdbe6f1b3------2)
-- [Retirement of Exchange Online Admin Audit Log](https://medium.com/@ryan.adams1277/retirement-of-exchange-online-admin-audit-log-e697d48e83aa?source=rss-e21fdbe6f1b3------2)
-- [Using ChatGPT to Review Wireshark CSV Exports!](https://medium.com/@ryan.adams1277/using-chatgpt-to-review-wireshark-csv-exports-4e1e0d8ea8d5?source=rss-e21fdbe6f1b3------2)
-- [Assigning Policies in Microsoft Intune](https://medium.com/@ryan.adams1277/assigning-policies-in-microsoft-intune-dadee80de419?source=rss-e21fdbe6f1b3------2)
-- [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
-- [What is DNS &lpar;Domain Name System&rpar;?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8?source=rss-e21fdbe6f1b3------2)
-- [10 Useful Mac Run Commands &lpar;Command + Space&rpar;.](https://medium.com/@ryan.adams1277/10-useful-mac-run-commands-command-space-57ad200463da?source=rss-e21fdbe6f1b3------2)
-- [Implementing Zero Trust with Azure AD.](https://medium.com/@ryan.adams1277/implementing-zero-trust-with-azure-ad-5ed7edd2ecdf?source=rss-e21fdbe6f1b3------2)
-- [Azure Identity Protection.](https://medium.com/@ryan.adams1277/azure-identity-protection-3ca8f9504f60?source=rss-e21fdbe6f1b3------2)
-- [What is Active Directory &lpar;AD&rpar;?](https://medium.com/@ryan.adams1277/what-is-active-directory-ad-9b32b16b5161?source=rss-e21fdbe6f1b3------2)
-<!-- BLOG-POST-LIST:END -->
+<a href="http://www.github.com/Ryan-Adams57"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Adams57&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Ryan-Adams57" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Adams57&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Ryan-Adams57/Microsoft-365-PowerShell-Scripts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Adams57&repo=Microsoft-365-PowerShell-Scripts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ryan-Adams57/Windows-Admin-Batch-PowerShell-Scripts" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Adams57&repo=Windows-Admin-Batch-PowerShell-Scripts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Ryan-Adams57/Sysinternals-Windows-Group-Policy-Templates" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Adams57&repo=Sysinternals-Windows-Group-Policy-Templates&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ryan.adams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
