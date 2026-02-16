@@ -25,7 +25,6 @@ My focus is building secure, efficient systems through automation, identity mana
 <a href="https://www.github.com/Ryan-Adams57" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ryan-Adams57?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/ryan_from_twitch" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ryan_from_twitch?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Badges
 
 ### Support Me
 
