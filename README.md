@@ -88,7 +88,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[Windows Autopilot: A Transformative Tool for IT Device Management](https://medium.com/@ryan.adams1277/windows-autopilot-a-transformative-tool-for-it-device-management-c0fb9de1eb14?source=rss-e21fdbe6f1b3------2)
+- [Windows Autopilot: A Transformative Tool for IT Device Management](https://medium.com/@ryan.adams1277/windows-autopilot-a-transformative-tool-for-it-device-management-c0fb9de1eb14?source=rss-e21fdbe6f1b3------2)
 - [Retirement of Exchange Online Admin Audit Log](https://medium.com/@ryan.adams1277/retirement-of-exchange-online-admin-audit-log-e697d48e83aa?source=rss-e21fdbe6f1b3------2)
 - [Using ChatGPT to Review Wireshark CSV Exports!](https://medium.com/@ryan.adams1277/using-chatgpt-to-review-wireshark-csv-exports-4e1e0d8ea8d5?source=rss-e21fdbe6f1b3------2)
 - [Assigning Policies in Microsoft Intune](https://medium.com/@ryan.adams1277/assigning-policies-in-microsoft-intune-dadee80de419?source=rss-e21fdbe6f1b3------2)
