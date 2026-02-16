@@ -66,6 +66,12 @@
 
 </div>
 
+  <!-- Pastebin -->
+  <a href="https://pastebin.com/u/Removed_Content" target="_blank">
+    <img src="https://img.shields.io/badge/Pastebin-FF8800?style=for-the-badge&logo=pastebin&logoColor=white" />
+  </a>
+
+
 <hr>
 
 ## 🛠️ Languages and Tools
