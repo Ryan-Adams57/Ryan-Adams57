@@ -88,6 +88,8 @@
 
 ## 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+
 <div style="line-height: 1.6;">
 
 <a href="https://medium.com/@ryan.adams1277/use-remote-control-during-a-facetime-call-on-iphone-41af42010ad3">Use remote control during a FaceTime call on iPhone!</a><br>
@@ -102,3 +104,5 @@
 <a href="https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8">What is DNS (Domain Name System)?</a><br>
 
 </div>
+
+<!-- BLOG-POST-LIST:END -->
