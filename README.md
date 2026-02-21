@@ -87,15 +87,18 @@
 ---
 
 ## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Use remote control during a FaceTime call on iPhone!](https://medium.com/@ryan.adams1277/use-remote-control-during-a-facetime-call-on-iphone-41af42010ad3?source=rss-e21fdbe6f1b3------2)
-- [New Windows 11 method allows skipping the Microsoft Account requirement during OOBE](https://medium.com/@ryan.adams1277/new-windows-11-method-allows-skipping-the-microsoft-account-requirement-during-oobe-a744ed5fdfb9?source=rss-e21fdbe6f1b3------2)
-- [Preventing Users from Installing Unauthorized Applications &lpar;Intune Policy&rpar;](https://medium.com/@ryan.adams1277/preventing-users-from-installing-unauthorized-applications-intune-policy-5ba28c35eac0?source=rss-e21fdbe6f1b3------2)
-- [Troubleshooting When Windows Explorer is Not Responding](https://medium.com/@ryan.adams1277/troubleshooting-when-windows-explorer-is-not-responding-a95caf6b8eba?source=rss-e21fdbe6f1b3------2)
-- [Windows Autopilot: A Transformative Tool for IT Device Management](https://medium.com/@ryan.adams1277/windows-autopilot-a-transformative-tool-for-it-device-management-fbe297e845f3?source=rss-e21fdbe6f1b3------2)
-- [Retirement of Exchange Online Admin Audit Log](https://medium.com/@ryan.adams1277/retirement-of-exchange-online-admin-audit-log-e697d48e83aa?source=rss-e21fdbe6f1b3------2)
-- [Using ChatGPT to Review Wireshark CSV Exports!](https://medium.com/@ryan.adams1277/using-chatgpt-to-review-wireshark-csv-exports-4e1e0d8ea8d5?source=rss-e21fdbe6f1b3------2)
-- [Assigning Policies in Microsoft Intune](https://medium.com/@ryan.adams1277/assigning-policies-in-microsoft-intune-dadee80de419?source=rss-e21fdbe6f1b3------2)
-- [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
-- [What is DNS &lpar;Domain Name System&rpar;?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8?source=rss-e21fdbe6f1b3------2)
-<!-- BLOG-POST-LIST:END -->
+
+<div style="line-height: 1.6;">
+
+<a href="https://medium.com/@ryan.adams1277/use-remote-control-during-a-facetime-call-on-iphone-41af42010ad3">Use remote control during a FaceTime call on iPhone!</a><br>
+<a href="https://medium.com/@ryan.adams1277/new-windows-11-method-allows-skipping-the-microsoft-account-requirement-during-oobe-a744ed5fdfb9">New Windows 11 method allows skipping the Microsoft Account requirement during OOBE</a><br>
+<a href="https://medium.com/@ryan.adams1277/preventing-users-from-installing-unauthorized-applications-intune-policy-5ba28c35eac0">Preventing Users from Installing Unauthorized Applications (Intune Policy)</a><br>
+<a href="https://medium.com/@ryan.adams1277/troubleshooting-when-windows-explorer-is-not-responding-a95caf6b8eba">Troubleshooting When Windows Explorer is Not Responding</a><br>
+<a href="https://medium.com/@ryan.adams1277/windows-autopilot-a-transformative-tool-for-it-device-management-fbe297e845f3">Windows Autopilot: A Transformative Tool for IT Device Management</a><br>
+<a href="https://medium.com/@ryan.adams1277/retirement-of-exchange-online-admin-audit-log-e697d48e83aa">Retirement of Exchange Online Admin Audit Log</a><br>
+<a href="https://medium.com/@ryan.adams1277/using-chatgpt-to-review-wireshark-csv-exports-4e1e0d8ea8d5">Using ChatGPT to Review Wireshark CSV Exports!</a><br>
+<a href="https://medium.com/@ryan.adams1277/assigning-policies-in-microsoft-intune-dadee80de419">Assigning Policies in Microsoft Intune</a><br>
+<a href="https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2">What is DHCP (Dynamic Host Configuration Protocol)?</a><br>
+<a href="https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8">What is DNS (Domain Name System)?</a><br>
+
+</div>
