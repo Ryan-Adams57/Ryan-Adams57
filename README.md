@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coming soon to the SharePoint Admin Center!](https://medium.com/@ryan.adams1277/coming-soon-to-the-sharepoint-admin-center-c6b921d67eac?source=rss-e21fdbe6f1b3------2)
+- [Microsoft Teams: Enhanced Messaging Safety Features Activated by Default](https://medium.com/@ryan.adams1277/microsoft-teams-enhanced-messaging-safety-features-activated-by-default-d82e5a5b9ffd?source=rss-e21fdbe6f1b3------2)
 - [Use remote control during a FaceTime call on iPhone!](https://medium.com/@ryan.adams1277/use-remote-control-during-a-facetime-call-on-iphone-41af42010ad3?source=rss-e21fdbe6f1b3------2)
 - [New Windows 11 method allows skipping the Microsoft Account requirement during OOBE](https://medium.com/@ryan.adams1277/new-windows-11-method-allows-skipping-the-microsoft-account-requirement-during-oobe-a744ed5fdfb9?source=rss-e21fdbe6f1b3------2)
 - [Preventing Users from Installing Unauthorized Applications &lpar;Intune Policy&rpar;](https://medium.com/@ryan.adams1277/preventing-users-from-installing-unauthorized-applications-intune-policy-5ba28c35eac0?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [Retirement of Exchange Online Admin Audit Log](https://medium.com/@ryan.adams1277/retirement-of-exchange-online-admin-audit-log-e697d48e83aa?source=rss-e21fdbe6f1b3------2)
 - [Using ChatGPT to Review Wireshark CSV Exports!](https://medium.com/@ryan.adams1277/using-chatgpt-to-review-wireshark-csv-exports-4e1e0d8ea8d5?source=rss-e21fdbe6f1b3------2)
 - [Assigning Policies in Microsoft Intune](https://medium.com/@ryan.adams1277/assigning-policies-in-microsoft-intune-dadee80de419?source=rss-e21fdbe6f1b3------2)
-- [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
-- [What is DNS &lpar;Domain Name System&rpar;?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
