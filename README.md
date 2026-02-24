@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add a New User in Microsoft Intune — Quick Guide](https://medium.com/@ryan.adams1277/how-to-add-a-new-user-in-microsoft-intune-quick-guide-05980ff05c2f?source=rss-e21fdbe6f1b3------2)
+- [Active Directory &lpar;AD&rpar; functions as the central control system of a Windows-based environment.](https://medium.com/@ryan.adams1277/active-directory-ad-functions-as-the-central-control-system-of-a-windows-based-environment-fd9cd6d0edbe?source=rss-e21fdbe6f1b3------2)
 - [Coming soon to the SharePoint Admin Center!](https://medium.com/@ryan.adams1277/coming-soon-to-the-sharepoint-admin-center-c6b921d67eac?source=rss-e21fdbe6f1b3------2)
 - [Microsoft Teams: Enhanced Messaging Safety Features Activated by Default](https://medium.com/@ryan.adams1277/microsoft-teams-enhanced-messaging-safety-features-activated-by-default-d82e5a5b9ffd?source=rss-e21fdbe6f1b3------2)
 - [Use remote control during a FaceTime call on iPhone!](https://medium.com/@ryan.adams1277/use-remote-control-during-a-facetime-call-on-iphone-41af42010ad3?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [Troubleshooting When Windows Explorer is Not Responding](https://medium.com/@ryan.adams1277/troubleshooting-when-windows-explorer-is-not-responding-a95caf6b8eba?source=rss-e21fdbe6f1b3------2)
 - [Windows Autopilot: A Transformative Tool for IT Device Management](https://medium.com/@ryan.adams1277/windows-autopilot-a-transformative-tool-for-it-device-management-fbe297e845f3?source=rss-e21fdbe6f1b3------2)
 - [Retirement of Exchange Online Admin Audit Log](https://medium.com/@ryan.adams1277/retirement-of-exchange-online-admin-audit-log-e697d48e83aa?source=rss-e21fdbe6f1b3------2)
-- [Using ChatGPT to Review Wireshark CSV Exports!](https://medium.com/@ryan.adams1277/using-chatgpt-to-review-wireshark-csv-exports-4e1e0d8ea8d5?source=rss-e21fdbe6f1b3------2)
-- [Assigning Policies in Microsoft Intune](https://medium.com/@ryan.adams1277/assigning-policies-in-microsoft-intune-dadee80de419?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
