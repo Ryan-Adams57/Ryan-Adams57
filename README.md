@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Introduces User Site Permissions Report in SharePoint Admin Center](https://medium.com/@ryan.adams1277/microsoft-introduces-user-site-permissions-report-in-sharepoint-admin-center-e5034697f7a1?source=rss-e21fdbe6f1b3------2)
+- [SharePoint Governance Takes a Step Forward](https://medium.com/@ryan.adams1277/sharepoint-governance-takes-a-step-forward-93fe9fb141b1?source=rss-e21fdbe6f1b3------2)
 - [How to Add a New User in Microsoft Intune — Quick Guide](https://medium.com/@ryan.adams1277/how-to-add-a-new-user-in-microsoft-intune-quick-guide-05980ff05c2f?source=rss-e21fdbe6f1b3------2)
 - [Active Directory &lpar;AD&rpar; functions as the central control system of a Windows-based environment.](https://medium.com/@ryan.adams1277/active-directory-ad-functions-as-the-central-control-system-of-a-windows-based-environment-fd9cd6d0edbe?source=rss-e21fdbe6f1b3------2)
 - [Coming soon to the SharePoint Admin Center!](https://medium.com/@ryan.adams1277/coming-soon-to-the-sharepoint-admin-center-c6b921d67eac?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [New Windows 11 method allows skipping the Microsoft Account requirement during OOBE](https://medium.com/@ryan.adams1277/new-windows-11-method-allows-skipping-the-microsoft-account-requirement-during-oobe-a744ed5fdfb9?source=rss-e21fdbe6f1b3------2)
 - [Preventing Users from Installing Unauthorized Applications &lpar;Intune Policy&rpar;](https://medium.com/@ryan.adams1277/preventing-users-from-installing-unauthorized-applications-intune-policy-5ba28c35eac0?source=rss-e21fdbe6f1b3------2)
 - [Troubleshooting When Windows Explorer is Not Responding](https://medium.com/@ryan.adams1277/troubleshooting-when-windows-explorer-is-not-responding-a95caf6b8eba?source=rss-e21fdbe6f1b3------2)
-- [Windows Autopilot: A Transformative Tool for IT Device Management](https://medium.com/@ryan.adams1277/windows-autopilot-a-transformative-tool-for-it-device-management-fbe297e845f3?source=rss-e21fdbe6f1b3------2)
-- [Retirement of Exchange Online Admin Audit Log](https://medium.com/@ryan.adams1277/retirement-of-exchange-online-admin-audit-log-e697d48e83aa?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
