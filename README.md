@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 25H2 Overview: What to Expect](https://medium.com/@ryan.adams1277/windows-11-25h2-overview-what-to-expect-615c0f3d1e06?source=rss-e21fdbe6f1b3------2)
+- [What is PowerShell?](https://medium.com/@ryan.adams1277/what-is-powershell-06ecb558fac1?source=rss-e21fdbe6f1b3------2)
 - [How to Carry Out a Complete Factory Reset on a Windows PC/Laptop](https://medium.com/@ryan.adams1277/how-to-carry-out-a-complete-factory-reset-on-a-windows-pc-laptop-8feed57ec9ff?source=rss-e21fdbe6f1b3------2)
 - [How to Resolve Windows Update Failures](https://medium.com/@ryan.adams1277/how-to-resolve-windows-update-failures-aeaf5bf1dd71?source=rss-e21fdbe6f1b3------2)
 - [Common IT Issues and How to Troubleshoot Them](https://medium.com/@ryan.adams1277/common-it-issues-and-how-to-troubleshoot-them-8af88fa8fbc8?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [SharePoint Governance Takes a Step Forward](https://medium.com/@ryan.adams1277/sharepoint-governance-takes-a-step-forward-93fe9fb141b1?source=rss-e21fdbe6f1b3------2)
 - [How to Add a New User in Microsoft Intune — Quick Guide](https://medium.com/@ryan.adams1277/how-to-add-a-new-user-in-microsoft-intune-quick-guide-05980ff05c2f?source=rss-e21fdbe6f1b3------2)
 - [Active Directory &lpar;AD&rpar; functions as the central control system of a Windows-based environment.](https://medium.com/@ryan.adams1277/active-directory-ad-functions-as-the-central-control-system-of-a-windows-based-environment-fd9cd6d0edbe?source=rss-e21fdbe6f1b3------2)
-- [Coming soon to the SharePoint Admin Center!](https://medium.com/@ryan.adams1277/coming-soon-to-the-sharepoint-admin-center-c6b921d67eac?source=rss-e21fdbe6f1b3------2)
-- [Microsoft Teams: Enhanced Messaging Safety Features Activated by Default](https://medium.com/@ryan.adams1277/microsoft-teams-enhanced-messaging-safety-features-activated-by-default-d82e5a5b9ffd?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
