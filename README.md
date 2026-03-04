@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Microsoft 365 Security Configurations to Review in 2025](https://medium.com/@ryan.adams1277/new-microsoft-365-security-configurations-to-review-in-2025-a677983b56cb?source=rss-e21fdbe6f1b3------2)
+- [SCCM vs. Intune: Why More Organizations Are Adopting Intune](https://medium.com/@ryan.adams1277/sccm-vs-intune-why-more-organizations-are-adopting-intune-ff0cfd4b7835?source=rss-e21fdbe6f1b3------2)
 - [Windows 11 25H2 Overview: What to Expect](https://medium.com/@ryan.adams1277/windows-11-25h2-overview-what-to-expect-615c0f3d1e06?source=rss-e21fdbe6f1b3------2)
 - [What is PowerShell?](https://medium.com/@ryan.adams1277/what-is-powershell-06ecb558fac1?source=rss-e21fdbe6f1b3------2)
 - [How to Carry Out a Complete Factory Reset on a Windows PC/Laptop](https://medium.com/@ryan.adams1277/how-to-carry-out-a-complete-factory-reset-on-a-windows-pc-laptop-8feed57ec9ff?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [Real-World Azure Virtual Desktop Experience](https://medium.com/@ryan.adams1277/real-world-azure-virtual-desktop-experience-b022f4344d5b?source=rss-e21fdbe6f1b3------2)
 - [Microsoft Introduces User Site Permissions Report in SharePoint Admin Center](https://medium.com/@ryan.adams1277/microsoft-introduces-user-site-permissions-report-in-sharepoint-admin-center-e5034697f7a1?source=rss-e21fdbe6f1b3------2)
 - [SharePoint Governance Takes a Step Forward](https://medium.com/@ryan.adams1277/sharepoint-governance-takes-a-step-forward-93fe9fb141b1?source=rss-e21fdbe6f1b3------2)
-- [How to Add a New User in Microsoft Intune — Quick Guide](https://medium.com/@ryan.adams1277/how-to-add-a-new-user-in-microsoft-intune-quick-guide-05980ff05c2f?source=rss-e21fdbe6f1b3------2)
-- [Active Directory &lpar;AD&rpar; functions as the central control system of a Windows-based environment.](https://medium.com/@ryan.adams1277/active-directory-ad-functions-as-the-central-control-system-of-a-windows-based-environment-fd9cd6d0edbe?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
