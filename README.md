@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Defender for Endpoint: Unified, Built-In Endpoint Protection](https://medium.com/@ryan.adams1277/microsoft-defender-for-endpoint-unified-built-in-endpoint-protection-c67bed43ed27?source=rss-e21fdbe6f1b3------2)
+- [Making Software Deployment Easier with Microsoft Intune](https://medium.com/@ryan.adams1277/making-software-deployment-easier-with-microsoft-intune-f5346ef40b9c?source=rss-e21fdbe6f1b3------2)
 - [New Microsoft 365 Security Configurations to Review in 2025](https://medium.com/@ryan.adams1277/new-microsoft-365-security-configurations-to-review-in-2025-a677983b56cb?source=rss-e21fdbe6f1b3------2)
 - [SCCM vs. Intune: Why More Organizations Are Adopting Intune](https://medium.com/@ryan.adams1277/sccm-vs-intune-why-more-organizations-are-adopting-intune-ff0cfd4b7835?source=rss-e21fdbe6f1b3------2)
 - [Windows 11 25H2 Overview: What to Expect](https://medium.com/@ryan.adams1277/windows-11-25h2-overview-what-to-expect-615c0f3d1e06?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [How to Resolve Windows Update Failures](https://medium.com/@ryan.adams1277/how-to-resolve-windows-update-failures-aeaf5bf1dd71?source=rss-e21fdbe6f1b3------2)
 - [Common IT Issues and How to Troubleshoot Them](https://medium.com/@ryan.adams1277/common-it-issues-and-how-to-troubleshoot-them-8af88fa8fbc8?source=rss-e21fdbe6f1b3------2)
 - [Real-World Azure Virtual Desktop Experience](https://medium.com/@ryan.adams1277/real-world-azure-virtual-desktop-experience-b022f4344d5b?source=rss-e21fdbe6f1b3------2)
-- [Microsoft Introduces User Site Permissions Report in SharePoint Admin Center](https://medium.com/@ryan.adams1277/microsoft-introduces-user-site-permissions-report-in-sharepoint-admin-center-e5034697f7a1?source=rss-e21fdbe6f1b3------2)
-- [SharePoint Governance Takes a Step Forward](https://medium.com/@ryan.adams1277/sharepoint-governance-takes-a-step-forward-93fe9fb141b1?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
