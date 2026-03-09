@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming Changes to Apple Business Manager](https://medium.com/@ryan.adams1277/upcoming-changes-to-apple-business-manager-07c95d4598a4?source=rss-e21fdbe6f1b3------2)
+- [Upcoming Changes to Google Workspace](https://medium.com/@ryan.adams1277/upcoming-changes-to-google-workspace-be60979aa8df?source=rss-e21fdbe6f1b3------2)
 - [Upcoming Changes to Microsoft 365](https://medium.com/@ryan.adams1277/upcoming-changes-to-microsoft-365-46fdd9dbee45?source=rss-e21fdbe6f1b3------2)
 - [Linux Tip: Simplify Disk Usage Output](https://medium.com/@ryan.adams1277/linux-tip-simplify-disk-usage-output-80c6d11b1616?source=rss-e21fdbe6f1b3------2)
 - [Microsoft Defender for Endpoint: Unified, Built-In Endpoint Protection](https://medium.com/@ryan.adams1277/microsoft-defender-for-endpoint-unified-built-in-endpoint-protection-c67bed43ed27?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [SCCM vs. Intune: Why More Organizations Are Adopting Intune](https://medium.com/@ryan.adams1277/sccm-vs-intune-why-more-organizations-are-adopting-intune-ff0cfd4b7835?source=rss-e21fdbe6f1b3------2)
 - [Windows 11 25H2 Overview: What to Expect](https://medium.com/@ryan.adams1277/windows-11-25h2-overview-what-to-expect-615c0f3d1e06?source=rss-e21fdbe6f1b3------2)
 - [What is PowerShell?](https://medium.com/@ryan.adams1277/what-is-powershell-06ecb558fac1?source=rss-e21fdbe6f1b3------2)
-- [How to Carry Out a Complete Factory Reset on a Windows PC/Laptop](https://medium.com/@ryan.adams1277/how-to-carry-out-a-complete-factory-reset-on-a-windows-pc-laptop-8feed57ec9ff?source=rss-e21fdbe6f1b3------2)
-- [How to Resolve Windows Update Failures](https://medium.com/@ryan.adams1277/how-to-resolve-windows-update-failures-aeaf5bf1dd71?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
