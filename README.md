@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Key Technical Differences Between GPT/UEFI and MBR/Legacy Systems](https://medium.com/@ryan.adams1277/key-technical-differences-between-gpt-uefi-and-mbr-legacy-systems-6dc597534aa7?source=rss-e21fdbe6f1b3------2)
+- [Enable Microsoft 365 Co-pilot to Access Your On-Premises File Shares or Google Drive](https://medium.com/@ryan.adams1277/enable-microsoft-365-co-pilot-to-access-your-on-premises-file-shares-or-google-drive-a60a540d6e1a?source=rss-e21fdbe6f1b3------2)
 - [Upcoming Changes to Apple Business Manager](https://medium.com/@ryan.adams1277/upcoming-changes-to-apple-business-manager-07c95d4598a4?source=rss-e21fdbe6f1b3------2)
 - [Upcoming Changes to Google Workspace](https://medium.com/@ryan.adams1277/upcoming-changes-to-google-workspace-be60979aa8df?source=rss-e21fdbe6f1b3------2)
 - [Upcoming Changes to Microsoft 365](https://medium.com/@ryan.adams1277/upcoming-changes-to-microsoft-365-46fdd9dbee45?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [Making Software Deployment Easier with Microsoft Intune](https://medium.com/@ryan.adams1277/making-software-deployment-easier-with-microsoft-intune-f5346ef40b9c?source=rss-e21fdbe6f1b3------2)
 - [New Microsoft 365 Security Configurations to Review in 2025](https://medium.com/@ryan.adams1277/new-microsoft-365-security-configurations-to-review-in-2025-a677983b56cb?source=rss-e21fdbe6f1b3------2)
 - [SCCM vs. Intune: Why More Organizations Are Adopting Intune](https://medium.com/@ryan.adams1277/sccm-vs-intune-why-more-organizations-are-adopting-intune-ff0cfd4b7835?source=rss-e21fdbe6f1b3------2)
-- [Windows 11 25H2 Overview: What to Expect](https://medium.com/@ryan.adams1277/windows-11-25h2-overview-what-to-expect-615c0f3d1e06?source=rss-e21fdbe6f1b3------2)
-- [What is PowerShell?](https://medium.com/@ryan.adams1277/what-is-powershell-06ecb558fac1?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
