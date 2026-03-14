@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Feature: Expanded Automated Investigation and Response &lpar;AIR&rpar; in Microsoft Defender for Office](https://medium.com/@ryan.adams1277/new-feature-expanded-automated-investigation-and-response-air-in-microsoft-defender-for-office-2ae98231e9ac?source=rss-e21fdbe6f1b3------2)
+- [Quick IT Support Tip: Fix Blue Screen of Death &lpar;BSOD&rpar; Errors Efficiently](https://medium.com/@ryan.adams1277/quick-it-support-tip-fix-blue-screen-of-death-bsod-errors-efficiently-c341df0fb39d?source=rss-e21fdbe6f1b3------2)
 - [Microsoft Windows Update Alert: Azure Virtual Desktop RemoteApp Issue](https://medium.com/@ryan.adams1277/microsoft-windows-update-alert-azure-virtual-desktop-remoteapp-issue-ae987295ddf0?source=rss-e21fdbe6f1b3------2)
 - [Essential Windows Repair Commands for IT Support Engineers](https://medium.com/@ryan.adams1277/essential-windows-repair-commands-for-it-support-engineers-65b3bda614a4?source=rss-e21fdbe6f1b3------2)
 - [Key Technical Differences Between GPT/UEFI and MBR/Legacy Systems](https://medium.com/@ryan.adams1277/key-technical-differences-between-gpt-uefi-and-mbr-legacy-systems-6dc597534aa7?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [Upcoming Changes to Google Workspace](https://medium.com/@ryan.adams1277/upcoming-changes-to-google-workspace-be60979aa8df?source=rss-e21fdbe6f1b3------2)
 - [Upcoming Changes to Microsoft 365](https://medium.com/@ryan.adams1277/upcoming-changes-to-microsoft-365-46fdd9dbee45?source=rss-e21fdbe6f1b3------2)
 - [Linux Tip: Simplify Disk Usage Output](https://medium.com/@ryan.adams1277/linux-tip-simplify-disk-usage-output-80c6d11b1616?source=rss-e21fdbe6f1b3------2)
-- [Microsoft Defender for Endpoint: Unified, Built-In Endpoint Protection](https://medium.com/@ryan.adams1277/microsoft-defender-for-endpoint-unified-built-in-endpoint-protection-c67bed43ed27?source=rss-e21fdbe6f1b3------2)
-- [Making Software Deployment Easier with Microsoft Intune](https://medium.com/@ryan.adams1277/making-software-deployment-easier-with-microsoft-intune-f5346ef40b9c?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
