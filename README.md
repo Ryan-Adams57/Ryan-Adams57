@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Security Basics in Microsoft Entra ID: Controlling BitLocker Recovery Keys](https://medium.com/@ryan.adams1277/setting-security-basics-in-microsoft-entra-id-controlling-bitlocker-recovery-keys-34d1001b8ab0?source=rss-e21fdbe6f1b3------2)
+- [Essential Computer and Device Ports Explained: HDMI, USB, Ethernet, and More](https://medium.com/@ryan.adams1277/essential-computer-and-device-ports-explained-hdmi-usb-ethernet-and-more-2d547521db1b?source=rss-e21fdbe6f1b3------2)
 - [New Feature: Expanded Automated Investigation and Response &lpar;AIR&rpar; in Microsoft Defender for Office](https://medium.com/@ryan.adams1277/new-feature-expanded-automated-investigation-and-response-air-in-microsoft-defender-for-office-2ae98231e9ac?source=rss-e21fdbe6f1b3------2)
 - [Quick IT Support Tip: Fix Blue Screen of Death &lpar;BSOD&rpar; Errors Efficiently](https://medium.com/@ryan.adams1277/quick-it-support-tip-fix-blue-screen-of-death-bsod-errors-efficiently-c341df0fb39d?source=rss-e21fdbe6f1b3------2)
 - [Microsoft Windows Update Alert: Azure Virtual Desktop RemoteApp Issue](https://medium.com/@ryan.adams1277/microsoft-windows-update-alert-azure-virtual-desktop-remoteapp-issue-ae987295ddf0?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [Enable Microsoft 365 Co-pilot to Access Your On-Premises File Shares or Google Drive](https://medium.com/@ryan.adams1277/enable-microsoft-365-co-pilot-to-access-your-on-premises-file-shares-or-google-drive-a60a540d6e1a?source=rss-e21fdbe6f1b3------2)
 - [Upcoming Changes to Apple Business Manager](https://medium.com/@ryan.adams1277/upcoming-changes-to-apple-business-manager-07c95d4598a4?source=rss-e21fdbe6f1b3------2)
 - [Upcoming Changes to Google Workspace](https://medium.com/@ryan.adams1277/upcoming-changes-to-google-workspace-be60979aa8df?source=rss-e21fdbe6f1b3------2)
-- [Upcoming Changes to Microsoft 365](https://medium.com/@ryan.adams1277/upcoming-changes-to-microsoft-365-46fdd9dbee45?source=rss-e21fdbe6f1b3------2)
-- [Linux Tip: Simplify Disk Usage Output](https://medium.com/@ryan.adams1277/linux-tip-simplify-disk-usage-output-80c6d11b1616?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
