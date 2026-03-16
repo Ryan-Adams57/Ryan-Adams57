@@ -89,6 +89,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Entra ID? &lpar;Previously Azure AD&rpar;](https://medium.com/@ryan.adams1277/what-is-entra-id-previously-azure-ad-04ddbe4a9d52?source=rss-e21fdbe6f1b3------2)
+- [Block External Teams Users Directly from the Defender Portal](https://medium.com/@ryan.adams1277/block-external-teams-users-directly-from-the-defender-portal-68e2de73820c?source=rss-e21fdbe6f1b3------2)
 - [Setting Security Basics in Microsoft Entra ID: Controlling BitLocker Recovery Keys](https://medium.com/@ryan.adams1277/setting-security-basics-in-microsoft-entra-id-controlling-bitlocker-recovery-keys-34d1001b8ab0?source=rss-e21fdbe6f1b3------2)
 - [Essential Computer and Device Ports Explained: HDMI, USB, Ethernet, and More](https://medium.com/@ryan.adams1277/essential-computer-and-device-ports-explained-hdmi-usb-ethernet-and-more-2d547521db1b?source=rss-e21fdbe6f1b3------2)
 - [New Feature: Expanded Automated Investigation and Response &lpar;AIR&rpar; in Microsoft Defender for Office](https://medium.com/@ryan.adams1277/new-feature-expanded-automated-investigation-and-response-air-in-microsoft-defender-for-office-2ae98231e9ac?source=rss-e21fdbe6f1b3------2)
@@ -97,6 +99,4 @@
 - [Essential Windows Repair Commands for IT Support Engineers](https://medium.com/@ryan.adams1277/essential-windows-repair-commands-for-it-support-engineers-65b3bda614a4?source=rss-e21fdbe6f1b3------2)
 - [Key Technical Differences Between GPT/UEFI and MBR/Legacy Systems](https://medium.com/@ryan.adams1277/key-technical-differences-between-gpt-uefi-and-mbr-legacy-systems-6dc597534aa7?source=rss-e21fdbe6f1b3------2)
 - [Enable Microsoft 365 Co-pilot to Access Your On-Premises File Shares or Google Drive](https://medium.com/@ryan.adams1277/enable-microsoft-365-co-pilot-to-access-your-on-premises-file-shares-or-google-drive-a60a540d6e1a?source=rss-e21fdbe6f1b3------2)
-- [Upcoming Changes to Apple Business Manager](https://medium.com/@ryan.adams1277/upcoming-changes-to-apple-business-manager-07c95d4598a4?source=rss-e21fdbe6f1b3------2)
-- [Upcoming Changes to Google Workspace](https://medium.com/@ryan.adams1277/upcoming-changes-to-google-workspace-be60979aa8df?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
