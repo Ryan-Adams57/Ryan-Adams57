@@ -5,6 +5,48 @@
   />
 </h1>
 
+## 👋 About Me
+
+I'm Ryan, a Desktop Support Technician who enjoys solving real-world IT problems and automating the tedious parts of the job. My day-to-day centers on Windows and Microsoft 365 administration, Active Directory, and cloud infrastructure, with a strong focus on Azure DevOps CI/CD pipelines.
+- 🔧 I specialize in Azure DevOps CI/CD pipelines and cloud infrastructure
+- 🌱 I'm currently deepening my skills in Cyber Security
+- 🖥️ I build PowerShell, Batch, and automation tooling for Windows, AD, and macOS
+- 💬 Happy to chat about Python, PowerShell, HTML/CSS, and IT support
+- 🎓 Colorado Mesa University
+
+## 📂 Projects & Repositories
+
+A selection of my public work, grouped by area:
+
+**PowerShell & Microsoft 365 Administration**
+- [Microsoft-365-PowerShell-Scripts](https://github.com/Ryan-Adams57/Microsoft-365-PowerShell-Scripts) — reporting & auditing across M365 (Entra ID, Exchange, Teams, Intune, and more)
+- [Windows-PowerShell-Scripts](https://github.com/Ryan-Adams57/Windows-PowerShell-Scripts) — automating M365, Exchange, AD, and Windows administration
+- [PowerShell-Scripts-for-Windows-Administration-and-System-Cleanup](https://github.com/Ryan-Adams57/PowerShell-Scripts-for-Windows-Administration-and-System-Cleanup) — a sysadmin cheat sheet and cleanup scripts
+- [Windows-Bash-And-Batch-Scripts](https://github.com/Ryan-Adams57/Windows-Bash-And-Batch-Scripts) — Batch and Bash scripts for Windows repair and automation
+
+**Windows & macOS Automation**
+- [macOS-Automation-Collection](https://github.com/Ryan-Adams57/macOS-Automation-Collection) — AppleScript & Bash utilities for macOS workflows
+- [macOS-Admin-Scripts](https://github.com/Ryan-Adams57/macOS-Admin-Scripts) — shell scripts for macOS administration and device setup
+- [MDT-PowerShell-BIOS-Update](https://github.com/Ryan-Adams57/MDT-PowerShell-BIOS-Update) — BIOS firmware updates during MDT deployments (HP, Dell, Lenovo)
+- [Sysinternals-Windows-Group-Policy-Templates](https://github.com/Ryan-Adams57/Sysinternals-Windows-Group-Policy-Templates) — ADM/ADMX templates for managing Sysinternals via Group Policy
+
+**Active Directory, Azure & Cloud**
+- [Active-Directory-Lab](https://github.com/Ryan-Adams57/Active-Directory-Lab) — Windows Server 2025 DC + Windows 10 clients in VirtualBox
+- [Cloud-Hosted-Active-Directory](https://github.com/Ryan-Adams57/Cloud-Hosted-Active-Directory) — on-prem Active Directory hosted on Azure VMs
+- [Azure-AD-Hybrid-Setup](https://github.com/Ryan-Adams57/Azure-AD-Hybrid-Setup) — hybrid Microsoft Entra ID + on-prem AD deployment
+- [Fixing-Active-Directory-Trust-Issues](https://github.com/Ryan-Adams57/Fixing-Active-Directory-Trust-Issues) — three quick methods to repair AD trust relationships
+
+**Security & Networking**
+- [Managing-Network-Security-Groups-NSGs-and-Analyzing-Traffic-Between-Azure-Virtual-Machines](https://github.com/Ryan-Adams57/Managing-Network-Security-Groups-NSGs-and-Analyzing-Traffic-Between-Azure-Virtual-Machines) — Azure NSGs and VM traffic analysis with Wireshark
+- [simple-port-scanner](https://github.com/Ryan-Adams57/simple-port-scanner) — a beginner-friendly Python TCP port scanner for learning
+- [Acunetix-Web-Vulnerability-Write-Up-vulnweb](https://github.com/Ryan-Adams57/Acunetix-Web-Vulnerability-Write-Up-vulnweb) — web vulnerability scan write-ups against the vulnweb test sites
+
+**Automation, Tools & Creative Projects**
+- [Google-Home-YAML-Automation-Collection](https://github.com/Ryan-Adams57/Google-Home-YAML-Automation-Collection) — 22 YAML automations for the Google Home Script Editor
+- [Google-Contacts-Birthday-Calendar](https://github.com/Ryan-Adams57/Google-Contacts-Birthday-Calendar) — sync contact birthdays into Google Calendar via Apps Script
+- [Memory-Snap](https://github.com/Ryan-Adams57/Memory-Snap) — back up Snapchat Memories from your official data export
+- [Free-IT-Tools](https://github.com/Ryan-Adams57/Free-IT-Tools) — handy browser tools: blog post generator, text-to-image, ROI calculator
+
 ### A Desktop Support Technician
 
 - 🌱 I’m currently learning **Cyber Security**
