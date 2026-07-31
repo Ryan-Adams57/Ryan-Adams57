@@ -47,11 +47,6 @@ A selection of my public work, grouped by area:
 - [Memory-Snap](https://github.com/Ryan-Adams57/Memory-Snap) - back up Snapchat Memories from your official data export
 - [Free-IT-Tools](https://github.com/Ryan-Adams57/Free-IT-Tools) - handy browser tools: blog post generator, text-to-image, ROI calculator
 
-### A Desktop Support Technician
-
-- 🌱 I’m currently learning **Cyber Security**
-- 💬 Feel free to chat with me about Python, HTML, CSS, and more! or visit my [website](https://www.governmentcontrol.net)
-
 <hr>
 
 <div align="center">
